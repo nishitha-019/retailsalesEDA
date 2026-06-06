@@ -1,0 +1,12 @@
+Product,Category,Sales,Region
+Laptop,Electronics,100000,South
+Mouse,Electronics,2500,North
+Chair,Furniture,4500,East
+Table,Furniture,10000,West
+Phone,Electronics,80000,South
+Pen,Stationery,200,North
+Notebook,Stationery,350,East
+Headphones,Electronics,6000,West
+Sofa,Furniture,25000,South
+Printer,Electronics,24000,North
+
